@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Mohammad 👋
 
-<!--
-**Mohammad-ArMi-dev/Mohammad-ArMi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+- 👀 Interested in: Software development — especially web development and artificial intelligence  
+- 🌱 Currently learning: React and improving my frontend development skills  
+- 💞️ Looking to collaborate on: Open-source projects and web applications  
+- 📫 How to reach me: MohammadArMi.dev@gmail.com 
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy solving coding challenges and exploring new technologies!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+Mohammad-Ar-Mi/Mohammad-Ar-Mi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
