@@ -16,6 +16,7 @@
 ### ![Learning](https://img.icons8.com/color/24/000000/learning.png) Currently Learning
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ![Programming](https://img.icons8.com/color/24/000000/code.png) Programming Languages
 
@@ -52,7 +53,7 @@
 ### ![IDE](https://img.icons8.com/color/24/000000/source-code.png) IDEs
 
 <!-- ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white) -->
+![JetBrains](https://img.shields.io/badge/JetBrains-FF2D55?style=for-the-badge&logo=jetbrains&logoColor=white) -->
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### ![OS](https://img.icons8.com/color/24/000000/laptop.png) Operating Systems
@@ -77,7 +78,6 @@
 ### ![Learning](https://img.icons8.com/color/24/000000/futures.png) In the Future I Will Learn
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <!-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
